@@ -1,0 +1,62 @@
+
+
+
+Parte 01
+
+Perío do Histórico: Antiguidade (c. 3000 a.C.)
+Invento/Avanço: Ábaco
+Contribuição: Primeiro instrumento de cálculo, facilitando operações matemáticas básicas.
+
+
+Período Histórico: Século XVII
+Invento/Avanço: Calculadora mecânica (Pascalina)
+Contribuição: Automatizou cálculos simples, iniciando a ideia de máquinas que processam informações.
+
+
+Período Histórico: Século XIX
+Invento/Avanço: Máquina Analítica
+Contribuição: Conceito inicial de computador programável, base para os computadores modernos.
+
+
+Período Histórico: Década de 1940 (Século XX)
+Invento/Avanço: Primeiros computadores eletrônicos (ex: ENIAC)
+Contribuição: Realização de cálculos complexos em alta velocidade, início da computação moderna.
+
+
+Período Histórico: Século XXI
+Invento/Avanço: Inteligência Artificial
+Contribuição: Máquinas capazes de aprender, tomar decisões e automatizar tarefas complexas.
+
+Parte 02
+
+1- O ábaco tinha como função principal realizar cálculos matemáticos, como soma, subtração, multiplicação e divisão, de forma rápida e organizada, utilizando o movimento das contas.
+
+Ele pode ser considerado um precursor das máquinas computacionais porque já apresenta conceitos básicos da computação:
+
+Representação de dados: as contas representam valores numéricos (como unidades e dezenas).
+Memória: a posição das contas guarda o resultado temporário dos cálos.
+Processamento: o usuário move as contas, funcionando como o “processador” da operação.
+Estrutura de dados: as hastes organizam as informações de forma lógica.
+
+Assim, o ábaco introduziu a ideia de manipular informações para obter resultados, que é exatamente o princípio dos computadores atuais — a diferença é que hoje isso é feito eletronicamente com bits, e não fisicamente com contas.
+
+2- A principal diferença entre uma calculadora mecânica do século XIX e um computador eletrônico moderno está na forma como funcionam e na sua capacidade:
+
+Fonte de energia:
+A calculadora mecânica funciona por força física (manual ou mecânica), enquanto o computador usa eletricidade.
+Método de processamento:
+A calculadora utiliza engrenagens e alavancas para fazer cálculos, já o computador usa circuitos eletrônicos e transistores.
+Velocidade e capacidade:
+A calculadora é lenta e limitada ao esforço humano, enquanto o computador realiza milhões (ou bilhões) de operações por segundo.
+Flexibilidade (reprogramação):
+A calculadora mecânica tem função fixa (faz sempre o mesmo tipo de cálculo), enquanto o computador pode ser programado para executar diferentes tarefas através de softwares.
+
+3- A principal “ponte” que permite à máquina resolver problemas complexos é a programação.
+
+A programação conecta o problema à máquina por meio de instruções (algoritmos), dizendo passo a passo o que ela deve fazer. Assim:
+
+O problema é transformado em uma sequência lógica de passos
+Esses passos são escritos em uma linguagem de programação
+O computador executa essas instruções rapidamente
+
+Sem essa “ponte”, a máquina seria apenas um equipamento eletrônico sem função prática.
