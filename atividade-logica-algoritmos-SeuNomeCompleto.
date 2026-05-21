@@ -1,0 +1,30 @@
+Algoritmo Controle_Entrada_Alunos
+Variáveis
+    fila_de_alunos: Lista de Nomes
+    lista_oficial: Lista de Nomes
+    aluno_atual: Texto
+    total_fila: Inteiro
+    i: Inteiro
+
+Início
+    // Simulação de entrada de dados
+    total_fila <- contar_elementos(fila_de_alunos)
+    
+    // Início do laço de repetição (Para cada aluno na fila)
+    Para i de 1 até total_fila faça
+        
+        aluno_atual <- fila_de_alunos[i]
+        
+        // Estrutura Condicional: Verificação na lista oficial
+        Se (aluno_atual consta em lista_oficial) Então
+            Escrever("Entrada PERMITIDA para o aluno: ", aluno_atual)
+            // Lógica para permitir entrada física
+        Senão
+            Escrever("ERRO: Entrada NEGADA. ", aluno_atual, " não está na lista oficial.")
+            // Lógica para barrar entrada
+        FimSe
+        
+    FimPara
+    
+    Escrever("Processo de verificação concluído para todos os alunos da fila.")
+Fim
